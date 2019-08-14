@@ -1,0 +1,25 @@
+{
+  "name": "technical-test",
+  "version": "1.0.0",
+  "description": "Wemap - Tous droits réservés - Les maquettes ainsi que les documents relatifs au test sont la propriété privée de la société SAS Wemap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --inline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wemap/technical-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wemap/technical-test/issues"
+  },
+  "homepage": "https://github.com/wemap/technical-test#readme",
+  "devDependencies": {
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.8.0"
+  }
+}

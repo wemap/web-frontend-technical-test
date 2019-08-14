@@ -1,0 +1,118 @@
+[
+    {
+        "title": "Blade Runner 2019",
+        "cover": "assets/covers/4f1c91cd5fb8ad3eadaa39e43cd4e93d.png",
+        "isPromoted": false
+    },
+    {
+        "title": "Avengers",
+        "cover": "assets/covers/6ddd55e444d635ee97ea093ed2104443.png",
+        "isPromoted": false
+    },
+    {
+        "title": "Jurassic Park",
+        "cover": "assets/covers/6efff842356fdafda6e8304ebc42d3ec.png",
+        "isPromoted": false
+    },
+    {
+        "title": "Avengers - Endgame",
+        "cover": "assets/covers/7b3cf414cc0c8f080c0ed28847aa6588.png",
+        "isPromoted": false
+    },
+    {
+        "title": "13 reasons why",
+        "cover": "assets/covers/7e22a616bd3c8ba56116c72313cad02b.png",
+        "isPromoted": false
+    },
+    {
+        "title": "Godzilla",
+        "cover": "assets/covers/7e161b5625b4eb6a8c23c92da81c5657.png",
+        "isPromoted": true
+    },
+    {
+        "title": "The Hobbit",
+        "cover": "assets/covers/015a36615fe5ba747486b72a4f720c3a.png",
+        "isPromoted": false
+    },
+    {
+        "title": "L'empire contre-attaque",
+        "cover": "assets/covers/46d2ae37a9222174a0f4658997913c95.png",
+        "isPromoted": false
+    },
+    {
+        "title": "Beetlejuice",
+        "cover": "assets/covers/60a275e6490656b8fa045d270ca492de.png",
+        "isPromoted": false
+    },
+    {
+        "title": "La famille Addams",
+        "cover": "assets/covers/74c62d9d9020705fa15f4e443683d877.png",
+        "isPromoted": false
+    },
+    {
+        "title": "La Casa de Papel - Partie 3",
+        "cover": "assets/covers/76da0d454d31fdcdb70fcd1b75943165.png",
+        "isPromoted": false
+    },
+    {
+        "title": "Toy Story",
+        "cover": "assets/covers/87cb0e73c4b9098b215aee61c7253efe.png",
+        "isPromoted": false
+    },
+    {
+        "title": "Kill Bill",
+        "cover": "assets/covers/8418c5c56ab0f368d0c40974af04f12d.png",
+        "isPromoted": false
+    },
+    {
+        "title": "Captain america",
+        "cover": "assets/covers/3809235e0b209840390d803f38de7d91.png",
+        "isPromoted": false
+    },
+    {
+        "title": "Mars Attacks!",
+        "cover": "assets/covers/08828814e48fd25eb17d8dcf48f2955d.png",
+        "isPromoted": false
+    },
+    {
+        "title": "Godzilla",
+        "cover": "assets/covers/a-1.png",
+        "isPromoted": false
+    },
+    {
+        "title": "Avengers - Infinity war",
+        "cover": "assets/covers/c78a46cf50680dfec32976673aabd539.png",
+        "isPromoted": false
+    },
+    {
+        "title": "Gremlins",
+        "cover": "assets/covers/d5a06a22c9a32299d842c1ae7a8a9a63.png",
+        "isPromoted": false
+    },
+    {
+        "title": "Innihilation",
+        "cover": "assets/covers/d35bea3435ac76ad8bc09d90beb1282b.png",
+        "isPromoted": false
+    },
+    {
+        "title": "Harry Potter et la chambre des secrest",
+        "cover": "assets/covers/e0447798de5fe4f295ee445545db4e38.png",
+        "isPromoted": false
+    },
+    {
+        "title": "The end of the fucking world",
+        "cover": "assets/covers/eb8383b1386e1111ec620facb94931a6.png",
+        "isPromoted": false
+    },
+    {
+        "title": "Stranger things - saison 3",
+        "cover": "assets/covers/f-1.png",
+        "isPromoted": false
+    },
+    {
+        "title": "Harry Potter et le prisonnier d'Azkaban",
+        "cover": "assets/covers/fc084cd59ad3bc7fe9b0d742f92c75ab.png",
+        "isPromoted": false
+    }
+
+]
