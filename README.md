@@ -66,7 +66,7 @@ Un bouton "retour" permet de revenir à l'écran d'accueil.
 ### Ma sélection
 
 En cliquant sur le bouton `Ma sélection` du bandeau du bas, l'utilisateur accède à sa sélection de films.
-Pour chaque film, on vous demande d'afficher l'afficher, le titre ainsi qu'un bouton permettant de supprimer le film de la sélection.
+Pour chaque film, on vous demande d'afficher le titre, l'affiche du film ainsi qu'un bouton permettant de supprimer le film de la sélection.
 
 ## Livrables attendues
 
