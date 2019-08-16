@@ -4,7 +4,7 @@
 const path = require('path');
 
 // then build specific webpack config for environment
-module.exports = function(appPaths, dotenv) {
+module.exports = function() {
     return {
         resolve: {
             extensions: ['.js', '.jsx'],
