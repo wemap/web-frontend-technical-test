@@ -22,7 +22,20 @@ module.exports = function() {
             path: path.join(path.resolve('.'), 'dist')
         },
         mode: 'production',
-        module: {},
+        module: {
+            rules: [
+                {
+                    test: /\.jsx?$/,
+                    include: path.join(path.resolve('.'), 'src'),
+                    exclude: /(node_modules|bower_components|.test.js|.spec.js|.mock.js)/,
+                    use: [
+                        {
+                            loader: 'babel-loader'
+                        }
+                    ]
+                }
+            ]
+        },
         plugins: [],
 
         devServer: {
