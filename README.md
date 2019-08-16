@@ -68,6 +68,6 @@ Un bouton "retour" permet de revenir à l'écran d'accueil.
 En cliquant sur le bouton `Ma sélection` du bandeau du bas, l'utilisateur accède à sa sélection de films.
 Pour chaque film, on vous demande d'afficher le titre, l'affiche du film ainsi qu'un bouton permettant de supprimer le film de la sélection.
 
-## Livrables attendues
+## Livrables attendus
 
 Il est attendu de vous un accès vers un fork fonctionnel de ce dépôt github.
