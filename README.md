@@ -18,7 +18,7 @@ Dans ce test, pas de pression mais on aura certaines exigences :) notamment sur 
 - le bon respect du cahier des charges et des maquettes.
 - l’ajout d’une logique de sélection / désélectionner les films.
 
-Gardez bien à l'esprit qu'il convient de réaliser **uniquement** les pages décritent dans les maquettes. Inutile de développer des fonctionnalités supplémentaires, elles ne seront pas prises en compte.
+Gardez bien à l'esprit qu'il convient de réaliser **uniquement** les pages décritent dans les maquettes. Inutile de développer des fonctionnalités supplémentaires, elles ne seront pas prises en compte. Cependant les bonnes pratiques de développement peuvent être prises en compte, libre à vous d'ajouter un linter, des tests, etc... Vous êtes aussi libre de modifier l'architecture des dossiers.
 
 ## Images et icônes
 
@@ -28,13 +28,13 @@ Gardez bien à l'esprit qu'il convient de réaliser **uniquement** les pages dé
 
 ## Données
 
-La liste des films est contenue dans le fichier `movies.json`. Le but n'étant pas d'implémenter un échange client/serveur, vous pouvez initialiser votre application avec le contenu de ce fichier à l'aide d'un `import` ou `require` (le copier / coller fonctionne aussi bien que plus sale).
+La liste des films est contenue dans le fichier `movies.json`. Le but n'étant pas d'implémenter un échange client/serveur, vous pouvez initialiser votre application avec le contenu de ce fichier à l'aide d'un `import` ou `require` (le copier / coller fonctionne aussi bien que moins propre).
 
 ## Contraintes
 
-- L'application doit être développée en ReactJs avec l'architecture Flux ou Redux;
-- L'application doit être compilée avec webpack (début de fichier de configuration vous est fourni);
-- Le style de l'application doit être réalisé à l'aide de fichiers CSS ou bien en utilisant une bibliothèque de style inline (`styled-component` par exemple);
+- L'application doit être développée en ReactJs et doit utiliser un système de global state management (Redux, zustand, react context, etc... utilisez ce que vous préférez);
+- L'application doit être compilée avec un bundler de type webpack, vite, rollup, ici aussi choisissez celui avec lequel vous êtes le plus à l'aise.
+- Le style de l'application doit être réalisé à l'aide de fichiers CSS ou bien en utilisant une bibliothèque de style (`styled-component` par exemple);
 - L'application doit être entièrement responsive et ainsi s'adapter à la largeur de l'écran.
 
 - Il **n'est pas demandé** d'implémenter une quelconque solution de stockage de la sélection de l'utilisateur. Pas de base de données ou de système de fichier, la sélection de l'utilisateur doit être vidée à chaque refresh de la page.
